@@ -1,7 +1,7 @@
 /*!
 Theme Name: QO News and Views Page
 Theme URI: https://www.quodorbis.com/
-Author: Quod
+Author: Quod Orbis
 Author URI: https://www.quodorbis.com/
 Description: Description
 Version: 1.0.0
@@ -290,119 +290,6 @@ li {
 strong {
   font-weight: 700;
 }
-
-/*scroolbar*/
-
-/* ::-webkit-scrollbar-track {
-  background: #23d685;
-  background: -moz-linear-gradient(
-    left,
-    #23d685 0%,
-    #0c3e4d 50%,
-    #0c3e4d 51%,
-    #0c3e4d 100%
-  );
-  background: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    color-stop(0%, #23d685),
-    color-stop(50%, #0c3e4d),
-    color-stop(51%, #0c3e4d),
-    color-stop(100%, #0c3e4d)
-  );
-  background: -webkit-linear-gradient(
-    left,
-    #23d685 0%,
-    #0c3e4d 50%,
-    #0c3e4d 51%,
-    #0c3e4d 100%
-  );
-  background: -o-linear-gradient(
-    left,
-    #23d685 0%,
-    #0c3e4d 50%,
-    #0c3e4d 51%,
-    #0c3e4d 100%
-  );
-  background: -ms-linear-gradient(
-    left,
-    #23d685 0%,
-    #0c3e4d 50%,
-    #0c3e4d 51%,
-    #0c3e4d 100%
-  );
-  background: linear-gradient(
-    to right,
-    #23d685 0%,
-    #0c3e4d 50%,
-    #0c3e4d 51%,
-    #0c3e4d 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#23D685', endColorstr='#0C3E4D',GradientType=1 );
-}
-
-::-webkit-scrollbar {
-  width: 10px;
-  background-color: #000;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #23d685;
-  background: -moz-linear-gradient(
-    -45deg,
-    #23d685 0%,
-    #6e7774 50%,
-    #0a0e0a 51%,
-    #0a0809 100%
-  );
-  background: -webkit-gradient(
-    linear,
-    left top,
-    right bottom,
-    color-stop(0%, #23d685),
-    color-stop(50%, #6e7774),
-    color-stop(51%, #0a0e0a),
-    color-stop(100%, #0a0809)
-  );
-  background: -webkit-linear-gradient(
-    -45deg,
-    #23d685 0%,
-    #6e7774 50%,
-    #0a0e0a 51%,
-    #0a0809 100%
-  );
-  background: -o-linear-gradient(
-    -45deg,
-    #23d685 0%,
-    #6e7774 50%,
-    #0a0e0a 51%,
-    #0a0809 100%
-  );
-  background: -ms-linear-gradient(
-    -45deg,
-    #23d685 0%,
-    #6e7774 50%,
-    #0a0e0a 51%,
-    #0a0809 100%
-  );
-  background: linear-gradient(
-    135deg,
-    #23d685 0%,
-    #6e7774 50%,
-    #0a0e0a 51%,
-    #0a0809 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#23D685', endColorstr='#0a0809',GradientType=1 );
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -ms-border-radius: 10px;
-  border-radius: 10px;
-  cursor: pointer;
-} */
-
-/* This only works with JavaScript,
-        if it's not present, don't show loader */
 
 .no-js #loader {
   display: none;
@@ -869,18 +756,6 @@ menu style
 .nav-btn:hover > a {
   color: #000 !important;
 }
-
-/* --------------------------------
-
-close menu style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start Banner style
-
--------------------------------- */
 
 .top_banner {
   position: relative;
@@ -1667,12 +1542,6 @@ Start Innovation style
   color: #23d685;
 }
 
-/* --------------------------------
-
-Start Features style
-
--------------------------------- */
-
 .b_features {
   width: 100%;
   background-color: #ffffff;
@@ -1865,18 +1734,6 @@ Start Features style
   display: none;
 }
 
-/* --------------------------------
-
-Close Features style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start Portfolio style
-
--------------------------------- */
-
 .portfolio_sec {
   padding: 120px 0;
 }
@@ -2029,12 +1886,6 @@ Close Portfolio style
   font-size: 26px;
   line-height: 1.3em;
 }
-
-/* --------------------------------
-
-Start Fun fact style
-
--------------------------------- */
 
 .fun_fact {
   position: relative;
@@ -2197,18 +2048,6 @@ Start Our Team style
   margin-top: 50px;
 }
 
-/* --------------------------------
-
-Close Our Team style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start price table style
-
--------------------------------- */
-
 .package_table {
   width: 100%;
   padding: 70px 0;
@@ -2302,18 +2141,6 @@ Start price table style
   margin-top: 12px;
 }
 
-/* --------------------------------
-
-Close price table style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start Feedback style
-
--------------------------------- */
-
 .Client_testimonials {
   position: relative;
   background-image: url("../img/main/quod_orbis_funfactsection_1920x266.jpg");
@@ -2386,17 +2213,6 @@ Start Feedback style
   height: 12px;
 }
 
-/* --------------------------------
-
-Close Feedback style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start Blog style
-
--------------------------------- */
 .r_blog {
   width: 100%;
   background-color: #f6f6f6;
@@ -2479,18 +2295,6 @@ Start Blog style
 .r_blog .card-body .btn:hover {
   color: #23d685;
 }
-
-/* --------------------------------
-
-Close Blog style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start Careers style
-
--------------------------------- */
 
 .careers {
   width: 100%;
@@ -2630,18 +2434,6 @@ Start Careers style
   color: #23d685;
 }
 
-/* --------------------------------
-
-Close Careers style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start Contact style
-
--------------------------------- */
-
 .contacts {
   width: 100%;
   background-color: #ffffff;
@@ -2757,17 +2549,6 @@ Start Contact style
 .contact_right_single p {
 }
 
-/* --------------------------------
-
-Close Contact style
-
--------------------------------- */
-
-/* --------------------------------
-
-Start Footer style
-
--------------------------------- */
 .footers {
   width: 100%;
   background-color: #0c3e4d;
@@ -2805,12 +2586,6 @@ Start Footer style
   padding-top: 6px;
 }
 
-/* --------------------------------
-
-Close Footer styleham-btn
-
--------------------------------- */
-
 /*scrool*/
 .scrollup {
   width: 40px;
@@ -2822,12 +2597,6 @@ Close Footer styleham-btn
   z-index: 9999999;
   color: #23d685;
 }
-
-/* --------------------------------
-
-start Responsive style
-
--------------------------------- */
 
 @media only screen and (max-width: 380px) {
   .contact_right_single {
@@ -3035,17 +2804,6 @@ start Responsive style
   }
 }
 
-/* --------------------------------
-
-Close Responsive style
-
--------------------------------- */
-
-/* --------------------------------
-
- Modal style
-
--------------------------------- */
 .modal-dialog {
   margin-top: 90px;
 }
@@ -3080,12 +2838,6 @@ Close Responsive style
   padding: 10px 0 20px 0;
 }
 
-/* --------------------------------
-
-Close Responsive style
-
--------------------------------- */
-
 .container_image {
   -webkit-transform: scale(1, 1);
   -webkit-transition-timing-function: ease-out;
@@ -3114,12 +2866,6 @@ Close Responsive style
   transition: all 0.5s ease-out;
   text-align: center;
 }
-
-/*
-
-article
-
-*/
 
 .article {
   font-family: nimbus-sans, sans-serif;
@@ -3188,12 +2934,6 @@ article
   font-size: 16px;
 }
 
-/*
-
-certification logos
-
-*/
-
 .cert-logo {
   max-height: 145px;
   padding: 0 20px 0 20px;
@@ -3204,12 +2944,6 @@ certification logos
   text-align: center;
   padding: 10px;
 }
-
-/*
-
-List Styling
-
-*/
 
 .qo-green-bold {
   font-weight: bold;
@@ -3749,7 +3483,6 @@ List Styling
     padding-left: 0 !important;
   }
 }
-
 
 .colour-white {
   color: #fff !important;
